@@ -1,4 +1,4 @@
-#include <string.h>
+#include "mystring.h"
 
 char *mystrcpy(char *dest, const char *src)
 {
